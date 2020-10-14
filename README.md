@@ -59,3 +59,6 @@ Input a list of numbers and test if a number is equal to the sum of the cubes of
 
 [19.py](https://github.com/SlightlyEpic/Python-programs-I-need-to-submit-to-school/blob/main/19.py "Jump to 19.py")
 Create a dictionary with the roll number, name and marks of n students in a class and display the names of students who have marks above 75.
+
+[20.py](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Jump to 20.py")
+Input a list and calculate the mean of its elements
