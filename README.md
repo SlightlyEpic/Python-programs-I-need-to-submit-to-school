@@ -39,7 +39,7 @@ Display the terms of the Fibonacci series
 [12.py](https://github.com/SlightlyEpic/Python-programs-I-need-to-submit-to-school/blob/main/12.py "Jump to 12.py")
 Compute the greatest common divisor and least common multiple of two integers
 
-[13_new.py](https://github.com/SlightlyEpic/Python-programs-I-need-to-submit-to-school/blob/main/13.py "Jump to 13_new.py")
+[13_new.py](https://github.com/SlightlyEpic/Python-programs-I-need-to-submit-to-school/blob/main/13_new.py "Jum tp to 13_new.py")
 Count and display the number of vowels, consonants, uppercase, lowercase characters in string, more efficiently than before.
 
 [14.py](https://github.com/SlightlyEpic/Python-programs-I-need-to-submit-to-school/blob/main/14.py "Jump to 14.py")
